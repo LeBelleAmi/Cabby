@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cabby</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lat_lng" formatted="false">Latitude: %f  Longitude: %f </string>
+    <string name="i_m_going_home">Where would you like to go today?</string>
+    <string name="destination">Destination</string>
+    <string name="current_location">Current Location</string>
+</resources>
